@@ -7,16 +7,16 @@ body {
   padding: 16px 32px;
 }
 
-#menu {
+.menu {
   width: 400px;
   max-width: 100%;
   padding-left: 0;
   list-style-type: none;
 }
 
-#menu li {
+.menu li {
   display: flex;
   justify-content: space-between;
   padding: 8px 0;
-  border-bottom: 1px solid #000000;
+  border-bottom: 1px solid #000;
 }
