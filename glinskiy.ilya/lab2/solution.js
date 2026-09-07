@@ -17,7 +17,7 @@ function isBalanced(str) {
     }
   }
 
-  return true;
+  return stack.length === 0;
 }
 
 export {isBalanced};
